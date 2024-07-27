@@ -16,7 +16,7 @@
 #include <BlockDevice.h>
 #include <MBRBlockDevice.h>
 #include <FATFileSystem.h>
-#include <LittleFileSystem.h>
+//#include <LittleFileSystem.h> - clashes with our version
 
 #include "WiFi.h" /* WiFi from ArduinoCore-mbed */
 #include <SocketHelpers.h>
