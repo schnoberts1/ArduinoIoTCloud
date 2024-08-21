@@ -37,7 +37,7 @@
 #endif
 
 #include <Arduino.h>
-#include <Client.h>
+#include <api/Client.h>
 
 #include "bearssl/bearssl.h"
 
